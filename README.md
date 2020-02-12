@@ -1,2 +1,3 @@
-# handbook
-DevMaker Employee Handbook
+# DevMaker Employee Handbook
+
+- [Agenda](./calendar.md)
