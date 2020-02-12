@@ -1,6 +1,6 @@
 # Agenda
 
-Estas são as cerimônias que realizamos toda semana com horário fixo, agendado.
+Estas são os horearios das [cerimônias](./ceremonies.md) que realizamos toda semana com horário fixo, agendado.
 
 | Dia                | Horário           | Cerimônia                      |
 | ------------------ | ----------------- | ------------------------------ |
