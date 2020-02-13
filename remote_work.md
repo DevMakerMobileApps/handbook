@@ -4,7 +4,7 @@ Aqui na DevMaker trabalhamos remoto e vemos valor em não precisar estar no escr
 Acreditamos que o escritório é um bom lugar para colaborar, planejar em equipe, discutir ideias e brainstorming mas, o escritório não é o lugar que você procura quando quer estar **focado para fazer o que precisa ser feito**. Então, se você acredita que será **mais produtivo fora do escritório** fique a vontade para trabalhar remoto. Veja aqui como esperamos que o trabalho remoto aconteca:
 
 #### Sincronize e se planeje com o resto do time
-Avise o seu time que estará remoto e tenha certeza que o trabalho vá continuar acontecendo mesmo você não estando no escritório. Planeje antecipamente quando você precisará estar aqui (alguma reunião ou algo assim). Não deixe as pessoas te procurarem aqui no escritório sem saber que esta remoto.
+ovise o seu time que estará remoto e tenha certeza que o trabalho vá continuar acontecendo mesmo você não estando no escritório. Planeje antecipamente quando você precisará estar aqui (alguma reunião ou algo assim). Não deixe as pessoas te procurarem aqui no escritório sem saber que esta remoto.
 
 #### Não controlaremos suas horas trabalhadas
 Não trabalhe muitas horas, nem muito poucas. Não queremos que vire a noite trabalhando nem que passe dias sem fazer nada. Procure fazer a média de 40h semanais mas, isso estará sob seu controle. Equanto estiver claro que esta sendo produtivo não teremos problema. Teremos um problema se acumular trabalho a ser feito e não entendermos no que você estava ocupado.
@@ -18,7 +18,7 @@ Estar remoto não é desculpa pra não conversar e estar alinhado com o resto do
 - **Sextas-feiras a tarde** é quando reservamos para a viabilidade, as retrospectivas, as super retros, e para as FlashTaks então é um ótimo dia para estar fisicamente no escritório.
 
 #### Tenha certeza de ter tudo o que precisa
-Cheque se você tem tudo o que precisa para realizar o seu trabalho, as ferramentas instaladas no seu computador pessoal, celulares de teste, emuladores instalados acesso ao nosso GitLab, Redmine, Slack, etc. Tenha certeza que você vai conseguir fazer o seu trabalho mesmo não estando no escritório.
+Cheque se você tem tudo o que precisa para realizar o seu trabalho, as ferramentas instaladas no seu computador pessoal, celulares de teste, emuladores instalados acesso ao nosso GitLab, Redmine, Slack, etc. Tenha certeza que você vai conseguir fazer o seu trabalho mesmo não estando no escritório. Infelizmente, se você precisa atender ligações telefônicas do telefone do escritório você precisa coordenar melhor com o seu time para sempre ter alguém disponível para receber estas ligações.
 
 #### Procure trabalhar pelo menos 4h do dia junto com o resto da equipe
 Mesmo remoto precisamos uns-dos-outros para trabalhar e ainda trabalharemos juntos, só não físicamente juntos. Sincronize com o resto do time para trabalhar pelo menos um período todo juntos, online ao mesmo tempo. Assim a interação fica mais rápido e não ficamos esperando uns pelos outros muito tempo.
