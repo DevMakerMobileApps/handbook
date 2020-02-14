@@ -4,10 +4,10 @@ Aqui na DevMaker trabalhamos remoto e vemos valor em oferecer a possibilidade de
 Acreditamos que o escritório é um bom lugar para colaborar, planejar em equipe, discutir ideias e brainstorming, mas nem sempre o escritório é o lugar que você procura quando quer estar **concentrado para fazer o que precisa ser feito**. Então, se você realmente acredita que será **mais produtivo fora do escritório** fique a vontade para trabalhar remoto. Veja aqui como esperamos que o trabalho remoto aconteca:
 
 #### Sincronize e se planeje com o resto do time
-Avise o seu time que estará remoto com alguma antecedência e assegure que o trabalho vá continuar progredindo mesmo você não estando no escritório. Planeje antecipamente quando você precisará estar aqui (alguma reunião ou algo assim). Não deixe as pessoas te procurarem aqui no escritório sem saber que esta remoto.
+Avise o seu time que estará remoto com alguma antecedência e assegure que o trabalho vá continuar progredindo mesmo você não estando no escritório. Planeje antecipadamente quando você precisará estar aqui (alguma reunião ou algo assim). Não deixe as pessoas te procurarem aqui no escritório sem saber que esta remoto.
 
 #### Não controlaremos suas horas trabalhadas
-Não trabalhe muitas horas, nem muito poucas. Não queremos que vire a noite trabalhando nem que passe dias sem fazer nada. Procure fazer a média de 40h semanais mas, isso estará sob seu controle. Equanto estiver claro que está sendo produtivo não teremos problema. Teremos um problema se acumular trabalho a ser feito e não entendermos no que você estava ocupado.
+Não trabalhe muitas horas, nem muito poucas. Não queremos que vire a noite trabalhando nem que passe dias sem fazer nada. Procure fazer a média de 40h semanais mas, isso estará sob seu controle. Enquanto estiver claro que está sendo produtivo não teremos problema. Teremos um problema se acumular trabalho a ser feito e não entendermos no que você estava ocupado.
 
 #### Ferramentas de Comunicação
 Estar remoto não é desculpa pra não conversar e estar alinhado com o resto do time. Usamos principalmente 3 ferramentas para ajudar: Nosso **Slack** para o chat do dia-a-dia, o **Redmine** para o controle de atividades e progresso dos projetos e **[WhereBy](http://whereby.com)** para chamadas de vídeo. Use a vontade todas elas para não tornar a comunicação um problema trabalhando remoto. A comunicação é uma das coisas mais importantes para termos um time feliz, alinhado e produtivo.
