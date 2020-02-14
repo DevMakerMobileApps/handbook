@@ -36,4 +36,4 @@ Sim! Pode sim mas, se o seu contrato de trabalho ainda exige o registro do ponto
 Cada um de nós é diferente, e há pessoas que preferem ou são mais produtivas trabalhando no escritório. Se você prefere trabalhar na sede, está ótimo também. Queremos você bem e produtivo.
 
 ### Confiança
-Oferecer a possibilidade a você e aos outros membros da equipes, de trabalhar remotamente, significa que confiamos na maturidade e responsabilidade de todos. Foi um processo long até chegarmos a este ponto, e estamos felizes e confiantes que será bom para todos.
+Oferecer a possibilidade a você e aos outros membros da equipes, de trabalhar remotamente, significa que confiamos na maturidade e responsabilidade de todos. Foi um processo longo até chegarmos a este ponto, e estamos felizes e confiantes que será bom para todos.
