@@ -1,6 +1,10 @@
 # Painel Admin
 Segue a padronização que deve ser usado no modelo de desenvolvimento do CMS para painéis admin usado no backend das aplicações.
 
+- Colocar o asterisco em todos os campos obrigatórios 
+- Traduzir todos os campos 
+- Manter o mesmo estilo de fonte, tabela, etc para para todas os cruds no painel
+
 ## 1. Página de Login ##
 **Campos obrigatórios:**
 - E-mail 
