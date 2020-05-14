@@ -60,7 +60,7 @@ As vezes é melhor adiar o inicío esperar outras coisas terminarem (homolgaçã
 ## Bater o escopo contratado na entrega pro cliente
 Na primeira entrega do aplicativo é apresentado pro cliente cada feature contratada e só com o OK dele a homologação inicia. 
 
-Quando o cliente usa pela primeira vez o aplicativo, infelizmente, é normal ele perceber que precisa de novas coisas e insirtir que essas coisas deveriam ter sido feitas. Por isso comparar o escopo contratado com o que esta sendo entregue é muito importante.
+Quando o cliente usa pela primeira vez o aplicativo, infelizmente, é normal ele perceber que precisa de novas coisas e insistir que essas coisas deveriam ter sido feitas. Por isso comparar o escopo contratado com o que esta sendo entregue é muito importante.
 
 ## Fechar a v1 antes de começar a v2
 É normal o cliente misturar tudo e reportar coisas para serem corrijidas e novas funções a serem contruidas. Nós separamos isso e só negociamos/especificamos/desenvolvemos a segunda parte quando concordamos que a primeira entrega esta finalizada.
