@@ -10,7 +10,7 @@ Avise o seu time que estará remoto com alguma antecedência e assegure que o tr
 Não trabalhe muitas horas, nem muito poucas. Não queremos que vire a noite trabalhando nem que passe dias sem fazer nada. Procure fazer a média de 40h semanais mas, isso estará sob seu controle. Enquanto estiver claro que está sendo produtivo não teremos problema. Teremos um problema se acumular trabalho a ser feito e não entendermos no que você estava ocupado.
 
 #### Ferramentas de Comunicação
-Estar remoto não é desculpa pra não conversar e estar alinhado com o resto do time. Usamos principalmente 3 ferramentas para ajudar: Nosso **Slack** para o chat do dia-a-dia, o **Redmine** para o controle de atividades e progresso dos projetos e **[WhereBy](http://whereby.com)** para chamadas de vídeo. Use a vontade todas elas para não tornar a comunicação um problema trabalhando remoto. A comunicação é uma das coisas mais importantes para termos um time feliz, alinhado e produtivo.
+Estar remoto não é desculpa pra não conversar e estar alinhado com o resto do time. Usamos principalmente 3 ferramentas para ajudar: Nosso **Discord** para o chat do dia-a-dia, o **Redmine** para o controle de atividades e progresso dos projetos e **[WhereBy](http://whereby.com)** para chamadas de vídeo. Use a vontade todas elas para não tornar a comunicação um problema trabalhando remoto. A comunicação é uma das coisas mais importantes para termos um time feliz, alinhado e produtivo.
 
 #### Piores dias para ficar remoto:
 - **Nas segundas-feiras durante os plannings** são os dias que reservamos para planejar o nosso trabalho como equipe para a semana. Acreditamos que o planning é mais eficiente se estivermos presencialmente juntos.
