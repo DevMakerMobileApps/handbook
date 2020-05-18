@@ -13,6 +13,6 @@ Estas são os horários das [cerimônias](./ceremonies.md) que realizamos toda s
 | Todo dia           | das 11:45 - 12:00 | Daily meeting da SquadV        |
 | Toda Quarta        | a tarde           | Board Meeting                  |
 | Sexta à tarde      | das 16:00 - 17:00 | Retrospectiva do SquadV        |
-| Sexta à tarde      | das 18:00 - 18:00 | Retrospectiva do ATeam         |
+| Sexta à tarde      | das 17:00 - 18:00 | Retrospectiva do ATeam         |
 
 
