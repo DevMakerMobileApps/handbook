@@ -9,26 +9,26 @@ Segue a padronização que deve ser usado no modelo de desenvolvimento do CMS pa
 
 ## Sumário
 
-1. [Orientações Gerais](orientacoes-gerais)
-	1. [Página de Login](pagina-de-login)
-	2. [Página de Dashboard](pagina-de-dashboard)
-	3. [Navegação](navegacao)
-	4. [Página Minha Conta](pagina-minha-conta)
-2. [Telas com Formulário](telas-com-formulario)
-	1. [Padronização na Apresentação dos Campos](padronizacao-na-apresentacao-dos-campos)
+1. [Orientações Gerais](orientações-gerais)
+	1. [Página de Login](página-de-login)
+	2. [Página de Dashboard](página-de-dashboard)
+	3. [Navegação](navegação)
+	4. [Página Minha Conta](página-minha-conta)
+2. [Telas com Formulário](telas-com-formulário)
+	1. [Padronização na Apresentação dos Campos](padronização-na-apresentação-dos-campos)
 		1. [Campo Select2](campo-select2)
 		2. [Placeholder de Data](placeholder-de-data)
 		3. [Campo de Status Ativo/Inativo](campo-de-status-ativo-inativo)
-	2. [Botões](botoes)
-		1. [Botão de Adicionar](botao-de-adicionar)
-		2. [Botões de Ação](botoes-de-acao)
-		3. [Botão de Deletar](botao-de-deletar)
-		4. [Botões de Salvar e Voltar](botoes-de-salvar-e-voltar)
+	2. [Botões](botões)
+		1. [Botão de Adicionar](botão-de-adicionar)
+		2. [Botões de Ação](botões-de-ação)
+		3. [Botão de Deletar](botão-de-deletar)
+		4. [Botões de Salvar e Voltar](botões-de-salvar-e-voltar)
 	3. [Alinhamento dos Campos](alinhamento-dos-campos)
-	4. [Validações](validacoes)
+	4. [Validações](validações)
 
 3. [Telas com Listagem/Tabelas](telas-com-listagem-tabelas)
-	1. [Área de Filtro](area-de-filtro)
+	1. [Área de Filtro](área-de-filtro)
 	2. [Coluna Principal](coluna-principal)
 
 
@@ -79,7 +79,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 ## Telas com Formulário
 
-![](admin_panel/85B3890C-5AE1-472A-A9C1-7744BABF710B%207.png)
+![](assets/admin_panel/85B3890C-5AE1-472A-A9C1-7744BABF710B%207.png)
 
 
 ### Padronização na apresentação dos campos
