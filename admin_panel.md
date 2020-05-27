@@ -32,11 +32,15 @@ Segue a padronização que deve ser usado no modelo de desenvolvimento do CMS pa
 	2. [Coluna Principal](#coluna-principal)
 
 
-## Orientações Gerais [Voltar para o Sumário](#sumário)
+## Orientações Gerais
 
 - [ ] Colocar o asterisco em todos os campos obrigatórios 
 - [ ] Traduzir todos os campos 
 - [ ] Manter o mesmo estilo de fonte, tabela, e outros elementos da UI para todos os CRUDs no painel.
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ### Página de Login
@@ -47,9 +51,17 @@ Campos obrigatórios:
 - [ ] Link de recuperação 
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ### Página de Dashboard
 
 - [ ] Definir os itens a serem utilizados, senão deixar página em branco
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ### Navegação
@@ -69,6 +81,10 @@ Como deve ficar o título da página:
 ![](assets/admin_panel/BBA30B90-A1DD-4A58-B345-646C09011FB2%207.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ### Página Minha Conta
 Quando houver menu Minha Conta na barra superior, redirecionar para uma tela permitindo a edição dos dados do administrador.
 
@@ -77,9 +93,17 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 ![](assets/admin_panel/8F56C222-2589-4EF9-8283-37BA8CD1485F%207.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ## Telas com Formulário
 
 ![](assets/admin_panel/85B3890C-5AE1-472A-A9C1-7744BABF710B%207.png)
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ### Padronização na apresentação dos campos
@@ -93,6 +117,10 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 ![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.10.15%207.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 #### Placeholder de Data
 
 - [ ] Quando houver campo de data, número de telefone, CPF ou CNPJ, deve-se orientar a formatação esperada no `placeholder` do campo. 
@@ -102,6 +130,10 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 **Exemplo** 
 
 ![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.12.33%207.png)
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 #### Campo de Status Ativo/Inativo
@@ -116,14 +148,26 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 ![](assets/admin_panel/E50DD69A-3300-45F3-9758-CB81600560F8%207.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ### Botões
 
 - [ ] Os botões devem ser na cor primária do cliente.
 - [ ] Aplicar cor sólida ao botão somente quando for ação principal e importante para a tela. Os outros botões devem ser no estilo _outline_.
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 #### Botão de Adicionar
 - [ ] O botão deve ficar logo abaixo ao título, alinhado a esquerda da tela.
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 #### Botões de Ação
@@ -137,12 +181,20 @@ Orientação para uso dos botões de ação nas telas de editar e detalhe.
 ![](assets/admin_panel/0AE9DA12-1E0C-4733-BE07-BE98956104B4%206.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 #### Botão de Deletar 
 No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão de deletar também. A orientação se aplica para uso dos botões de deletar nas telas de editar e detalhe.
 
 - [ ] Caso haja necessidade da ação de deletar na tela o botão deve ficar logo abaixo do título. 
 - [ ] O botão deve ser no estilo _outline_, possuir o texto “Deletar” ou “Excluir” e ser da cor vermelha. 
 - [ ] O botão de deletar deve ser o último a aparecer. 
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 #### Botões de Salvar e Voltar
@@ -154,6 +206,10 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 **Exemplo**
 
 ![](assets/admin_panel/35FF28B8-FB3A-4C0E-A7F1-8A395E7F181A%207.png)
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ### Alinhamento dos Campos
@@ -168,6 +224,10 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 ![](admin_panel/Screen%20Shot%202020-05-27%20at%2011.39.46%206.png)
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ### Validações
 
 - [ ] Não esquecer de colocar * (asterisco) nos campos obrigatórios e deve ficar a direita da label.
@@ -175,6 +235,10 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 ![](assets/admin_panel/2CA278A8-28D5-4F16-BAF1-A8B886646C6F%206.png)
 
 - [ ] Padronizar a validação dos campos. Escolher entre utilizar a validação que o “required” oferece ou deixa todos iguais ao do componente. 
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ## Telas com Listagem/Tabelas
@@ -186,12 +250,20 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 - [ ] Botões de editar e excluir, ou outras ações do projeto devem ficar na coluna “Ações”.
 
 
+[(Voltar para o Sumário)](#sumário)
+
+
+
 ### Área de Filtro
 
 - [ ] Os campos do filtro devem possuir label.
 - [ ] O campo pesquisar deve possuir a seguinte estrutura:
 > **Texto da label:** “Termo”  
 > **Texto do placeholder:** “Pesquisar por [termos pesquisáveis]”  
+
+
+[(Voltar para o Sumário)](#sumário)
+
 
 
 ### Coluna Principal 
@@ -204,7 +276,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 ![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.49.08%206.png)
 
 
-
+[(Voltar para o Sumário)](#sumário)
 
 
 
