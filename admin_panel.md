@@ -32,7 +32,7 @@ Segue a padronização que deve ser usado no modelo de desenvolvimento do CMS pa
 	2. [Coluna Principal](#coluna-principal)
 
 
-## Orientações Gerais
+## Orientações Gerais [Voltar para o Sumário](#sumário)
 
 - [ ] Colocar o asterisco em todos os campos obrigatórios 
 - [ ] Traduzir todos os campos 
