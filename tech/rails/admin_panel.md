@@ -2,7 +2,7 @@
 Segue a padronização que deve ser usado no modelo de desenvolvimento do CMS para painéis administrativos usado no backend das aplicações.
 
 
-![](assets/admin_panel/WB0C668T3%207.png)
+![](../../assets/admin_panel/WB0C668T3%207.png)
 
 **Template utilizado:** [Appwork](https://devmaker-rails-admin-template.herokuapp.com)
 
@@ -74,11 +74,11 @@ Campos obrigatórios:
 
 Menu lateral:
 
-![](assets/admin_panel/171E99B6-7732-4B9C-876B-1650D452ACE7%207.png)
+![](../../assets/admin_panel/171E99B6-7732-4B9C-876B-1650D452ACE7%207.png)
 
 Como deve ficar o título da página:
 
-![](assets/admin_panel/BBA30B90-A1DD-4A58-B345-646C09011FB2%207.png)
+![](../../assets/admin_panel/BBA30B90-A1DD-4A58-B345-646C09011FB2%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -90,7 +90,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 **Exemplo**
 
-![](assets/admin_panel/8F56C222-2589-4EF9-8283-37BA8CD1485F%207.png)
+![](../../assets/admin_panel/8F56C222-2589-4EF9-8283-37BA8CD1485F%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -99,7 +99,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 ## Telas com Formulário
 
-![](assets/admin_panel/85B3890C-5AE1-472A-A9C1-7744BABF710B%207.png)
+![](../../assets/admin_panel/85B3890C-5AE1-472A-A9C1-7744BABF710B%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -114,7 +114,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 **Exemplo**
 
-![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.10.15%207.png)
+![](../../assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.10.15%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -129,7 +129,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 **Exemplo** 
 
-![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.12.33%207.png)
+![](../../assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.12.33%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -145,7 +145,7 @@ Quando houver menu Minha Conta na barra superior, redirecionar para uma tela per
 
 **Exemplo**
 
-![](assets/admin_panel/E50DD69A-3300-45F3-9758-CB81600560F8%207.png)
+![](../../assets/admin_panel/E50DD69A-3300-45F3-9758-CB81600560F8%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -178,7 +178,7 @@ Orientação para uso dos botões de ação nas telas de editar e detalhe.
 
 **Exemplo**
 
-![](assets/admin_panel/0AE9DA12-1E0C-4733-BE07-BE98956104B4%206.png)
+![](../../assets/admin_panel/0AE9DA12-1E0C-4733-BE07-BE98956104B4%206.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -205,7 +205,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 
 **Exemplo**
 
-![](assets/admin_panel/35FF28B8-FB3A-4C0E-A7F1-8A395E7F181A%207.png)
+![](../../assets/admin_panel/35FF28B8-FB3A-4C0E-A7F1-8A395E7F181A%207.png)
 
 
 [(Voltar para o Sumário)](#sumário)
@@ -216,7 +216,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 
 - [ ] O ideal é que o formulário seja de uma coluna. Mas para que a tela não fique com barra de rolagem longa, quando houver muitos campos, deixar campos em colunas/alinhados. 
 
-![](assets/admin_panel/DE90C7AA-C95D-46AB-8D84-E3E647B8BD44%206.png)
+![](../../assets/admin_panel/DE90C7AA-C95D-46AB-8D84-E3E647B8BD44%206.png)
 
 
 **Exemplo**
@@ -232,7 +232,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 
 - [ ] Não esquecer de colocar * (asterisco) nos campos obrigatórios e deve ficar a direita da label.
 
-![](assets/admin_panel/2CA278A8-28D5-4F16-BAF1-A8B886646C6F%206.png)
+![](../../assets/admin_panel/2CA278A8-28D5-4F16-BAF1-A8B886646C6F%206.png)
 
 - [ ] Padronizar a validação dos campos. Escolher entre utilizar a validação que o “required” oferece ou deixa todos iguais ao do componente. 
 
@@ -243,7 +243,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 
 ## Telas com Listagem/Tabelas
 
-![](assets/admin_panel/3BFC2576-5DA7-4CAD-915E-C716BDA7FD75%206.png)
+![](../../assets/admin_panel/3BFC2576-5DA7-4CAD-915E-C716BDA7FD75%206.png)
 
 
 - [ ] O botão de adicionar deve ficar fora da área de filtro e alinhado a esquerda da tela.
@@ -273,7 +273,7 @@ No exemplo de botões de ação (acima) está ilustrado como deve ficar o botão
 
 **Exemplo**
 
-![](assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.49.08%206.png)
+![](../../assets/admin_panel/Screen%20Shot%202020-05-27%20at%2011.49.08%206.png)
 
 
 [(Voltar para o Sumário)](#sumário)
