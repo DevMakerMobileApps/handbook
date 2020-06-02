@@ -10,6 +10,7 @@ Siga [este guia do expo](https://docs.expo.io/distribution/app-stores/)
 - privacy: "unlisted"
 - aumentar ios.buildNumber e android.versionCode sempre que for fazer uma build
 - para android: rode `fetch:android:keystore` e salve as chaver e o arquivo `.jks` no redmine do projeto
+- [Configure o FCM ServerKey para envio de push notifications](https://docs.expo.io/guides/using-fcm/#uploading-server-credentials) 
 
 ## Para Produção?
 - mudar pra url de produção!
