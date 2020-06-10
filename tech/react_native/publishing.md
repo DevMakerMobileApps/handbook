@@ -14,6 +14,5 @@ Siga [este guia do expo](https://docs.expo.io/distribution/app-stores/)
 
 ## Para Produção?
 - mudar pra url de produção!
-- Lembre de usar o **release channel** `production`!
-    expo build:[ios/android] --release-channel=production
+- Lembre de usar o **release channel** `production`! -> `expo build:[ios/android] --release-channel=production`
 
