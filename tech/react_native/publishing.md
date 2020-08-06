@@ -2,6 +2,9 @@
 
 Siga [este guia do expo](https://docs.expo.io/distribution/app-stores/)
 
+`expo build:ios --release-channel=production`
+`expo build:android --release-channel=production`
+
 #### Lembre-se:
 - app bundleIdentifior nnao pode ter `_` nem `-` nem nenhum caracter especial
 - checkar a versão do SDK do expo, preferencialmente a mais atual
