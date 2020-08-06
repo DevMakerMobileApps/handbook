@@ -3,6 +3,7 @@
 Siga [este guia do expo](https://docs.expo.io/distribution/app-stores/)
 
 `expo build:ios --release-channel=production`
+
 `expo build:android --release-channel=production`
 
 #### Lembre-se:
