@@ -1,4 +1,4 @@
-# Adicionar Nossos Ocesso na Conta de Publicação
+# Adicionar Nossos Acesso na Conta de Publicação
 
 Para publicar um aplicativo nas lojas é necessário que nosso time tenha o devido acesso à conta que será a dona do aplicativo. É importante que uma conta do cliente seja **Owner** da conta e que nossa equipe seja convidada com as devidas permissõe. Dessa forma o cliente é o proprietário da conta e pode tirar nossos acessos quando desejar. Esta forma também evita que seja necessário tranferir a propriedade da conta se o cliente não quiser mais continuar com a DevMaker.
 
