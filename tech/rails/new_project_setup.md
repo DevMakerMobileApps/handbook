@@ -133,10 +133,9 @@
 
 ## Heroku Deploy:
 1. be sure to have `ruby "2.5"` at Gemfile
-1. `heroku apps:create cartax-staging --remote=staging`
+1. `heroku apps:create [APPNAME]-staging --remote=staging`
 1. `heroku buildpacks:add heroku/nodejs`
 1. `heroku buildpacks:add heroku/ruby`
-1. `heroku config:set BUNDLE_GITLAB__COM=devmaker-ci-cd:THE_SUPER_SECRET_PASSWORD` (if the project uses this gem from the private gitlab repo)
 1. `heroku config:set RAILS_ENV=staging -a YYYY-staging`
 1. `heroku config:set RAILS_MASTER_KEY=[master.key string] -a YYYY-staging`
 1. create a `Procfile` file at root (maybe the first time you create the database you cant have the `release` Procfile line)
@@ -150,15 +149,20 @@
     config.action_mailer.default_url_options = Rails.application.routes.default_url_options
     config.action_controller.default_url_options = Rails.application.routes.default_url_options
     ```
-1. replace the default js_compressor to enable Uglyfier harmony mode: `config.assets.js_compressor = Uglifier.new(harmony: true)`
 1. Create a staging rails env and set at the heroku staging app
     1. copy `config/production.rb` and change url
     1. change the `database.yml` to set staging like prod
-1. set this to `staging.rb` and `production.rb`:
-    1. `config.assets.js_compressor = Uglifier.new(harmony: true)`
 1. After the deploy is done:
     1. `heroku run rake db:schema:load -a YYYYYYY`
     1. `heroku run rake db:seed -a YYYYYYY`
+    1. :warning: transfer the app ownershup to devmaker.rudiney@gmail.com
+    1. add the rails team collaborators:
+      - devmaker.felipeferreira@gmail.com
+      - devmaker.leonidas@gmail.com
+      - devmaker.rudiney@gmail.com (owner)
+      - gabriel.agrelli@devmaker.com.br
+      - infra@devmaker.com.br
+      - lucianocordeiro1991@hotmail.com
 
 
 # Emails with fancy styles?
@@ -210,28 +214,28 @@
     module ApplicationCable
       class Connection < ActionCable::Connection::Base
         identified_by :current_user
-    
+
         def connect
           self.current_user = find_verified_user
           logger.add_tags "ActionCable", current_user.id
         end
-    
+
         protected
-    
+
         def find_verified_user
           puts("verifying")
           verified_user = env["warden"].user || User.find_by(id: access_token&.resource_owner_id)
           verified_user || reject_unauthorized_connection
         end
-    
+
         def access_token
           @access_token ||= Doorkeeper::AccessToken.by_token(
             request.query_parameters[:token]
           )
         end
       end
-    end 
-    ```  
+    end
+    ```
 1. Add the following configuration to the module Pattern in config/application.rb:
     ```
     config.action_cable.disable_request_forgery_protection = true
@@ -246,7 +250,7 @@
       url: <%= ENV.fetch("REDIS_URL") { "redis://localhost:6379/1" } %>
       channel_prefix: {your-project}_development
      ```
-     
+
 1. Create a file `test.coffee` on the directory `app/assets/javascripts` and add the following content to it:
     ```
     App.room = App.cable.subscriptions.create "NotificationsChannel",
