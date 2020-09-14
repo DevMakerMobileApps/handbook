@@ -6,14 +6,12 @@ Para publicar um aplicativo nas lojas é necessário que nosso time tenha o devi
 
 ### Google
 - Francisco Tavares: `fco.anjos@gmail.com`
-- Fabiano Oliveira: `fabianooliveirale@gmail.com`
 - Victor Pereira: `devmaker.victor@gmail.com`
 - Gabriel Agrelli: `gabriel.agrelli@devmaker.com.br`
 - Rudiney Franceschi: `rudi.atp@gmail.com`
 - DevMaker Mobile: `infra@devmaker.com.br`
 
 ### Apple:
-- Fabiano Oliveira: `fabianooliveirale@gmail.com`
 - Cleverson Luiz: `devmaker.cleversonsouza@gmail.com`
 - Rudiney Franceschi: `rudi.atp@gmail.com`
 - DevMaker Mobile: `infra@devmaker.com.br`
@@ -47,9 +45,9 @@ Para o projeto android, precisamos de 2 acessos diferentes: na **Play Console** 
 
 ### Apple:
 1. Acessar: https://appstoreconnect.apple.com/access/users
-1. Ter certeza que esta logado na conta certa: 
+1. Ter certeza que esta logado na conta certa:
     - ![](./assets/add_devs_to_store_accounts/check_apple_account.png)
 1. Usar o botão de + pra convidar um novo usuário:
-    - O usuário precisa de permissnao de **App Manager** e **Access to Certificates, Identifiers & Profiles**
+    - O usuário precisa de permissão de **Admin** e **Access to Certificates, Identifiers & Profiles**
     ![](./assets/add_devs_to_store_accounts/add_appledev.png)
 
