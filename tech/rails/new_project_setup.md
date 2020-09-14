@@ -163,6 +163,7 @@
       - gabriel.agrelli@devmaker.com.br
       - infra@devmaker.com.br
       - lucianocordeiro1991@hotmail.com
+      - rudi.atp@gmail.com
 
 
 # Emails with fancy styles?
