@@ -132,7 +132,6 @@
 1. Copy the Base Notification class
 
 ## Heroku Deploy:
-1. be sure to have `ruby "2.5"` at Gemfile
 1. `heroku apps:create [APPNAME]-staging --remote=staging`
 1. `heroku buildpacks:add heroku/nodejs`
 1. `heroku buildpacks:add heroku/ruby`
