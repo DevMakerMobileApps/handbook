@@ -2,7 +2,7 @@
 
 Estas são os horários das [cerimônias](./ceremonies.md) que realizamos toda semana com horário fixo, agendado.
 
-![calendar example](./assets/calendar.png)
+![calendar example](./assets/calendar1.png)
 
 | Dia                | Horário           | Cerimônia                            |
 | ------------------ | ----------------- | ------------------------------------ |
