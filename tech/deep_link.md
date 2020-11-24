@@ -21,7 +21,7 @@
 ## Deferred Deep Link:
 - é deferred pq o usuário pode não ter a app instalada, baixar e instalar a app e só então abrir no link específico
 - ⚠️ precisa de uma grande solução no back-end e integração do back com as lojas
-- ⚠️ Expo só suporte esse tipo de link usando um serviço externo: [Branch.io](https://docs.expo.io/versions/latest/sdk/branch/)
+- ⚠️ Expo só suporta esse tipo de link usando um serviço externo: [Branch.io](https://docs.expo.io/versions/latest/sdk/branch/)
 
 
 Links:
