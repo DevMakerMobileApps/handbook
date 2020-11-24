@@ -15,7 +15,7 @@
 - ex: `https://www.devmaker.com.br/news/2`
   - se o usuário tem a app instalada, abre a notícia 2 no app
   - se não tiver a app instalada, abre a notícia no navegador
-- Apple e Goole exige que vc confirme ser o proprietário da app DevMaker e do domínio `devmaker.com.br`
+- Apple e Google exige que vc confirme ser o proprietário da app DevMaker e do domínio `devmaker.com.br`
 - ⚠️ não direciona o usuário pra baixar a app se ela não estiver instalada
 
 ## Deferred Deep Link:
