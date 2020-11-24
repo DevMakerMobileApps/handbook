@@ -5,7 +5,7 @@
   - ex: `http:` ou `https:` = abrir o navegador
   - ex: `mailto:` = abrir o cliente de email
   - ex: `tel:` = abrir o app de ligação
-- esse schema que abre sempre a app se estiver instalada!
+- esse schema abre sempre a app se estiver instalada!
   - ex: `dvmrapp:` = abre a app da DevMaker
 - ⚠️ só abre se a app já estiver instalada. Senão o link não é reconhecido pelo sistema operacional;
 
