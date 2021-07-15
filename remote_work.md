@@ -28,8 +28,5 @@ Estar em casa pode não ser melhor que o escritório. Crianças, família, pets,
 #### Desconfiança de estar longe
 Infelizmente existe uma desconfiança "se não estou vendo, como sei que o outro esta trabalhando?". Então tenha certeza de comunicar sempre claramente o seu progresso e mantenha o seu time informado se esta tendo algum problema. Se estiver empacado por algum motivo peça ajuda. Não deixe crescer esta desconfiança de que sem estarmos juntos no escritório, não se está trabalhando.
 
-### Sou CLT, posso trabalhar remoto?
-Sim! Pode sim mas, se o seu contrato de trabalho ainda exige o registro do ponto, precisaremos lançar manualmente o seu dia de trabalho remoto no sistema de ponto.
-
 ### Confiança
-Trabalhor remoto significa que confiamos na maturidade e responsabilidade de todos. Não crie motivos pra perdemos essa confiança.
+Trabalhar remotamente significa que confiamos na maturidade e responsabilidade de todos. Não crie motivos pra perdemos essa confiança.
