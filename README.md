@@ -1,5 +1,6 @@
 # DevMaker Employee Handbook
 
+- [Conheça o Time](./know_the_team.md)
 - [Agenda](./calendar.md)
 - [Trabalho Remoto](./remote_work.md)
 
