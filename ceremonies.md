@@ -11,7 +11,7 @@ Revisamos as prioridades e planejamos juntos o que precisa ser feito durante a s
 Gostamos de ter muito claro uma ordem de prioridade pra que ninguém tenha dúvida do que deixar pra
 depois se algum conflito acontecer.
 
-## Planning do Dosenvolvimento
+## Planning do Desenvolvimento
 
 O mais longo dos plannings! o objetivo desta reunião é que a equipe de desenvolvimento consiga
 entender em detalhes o que precisa ser construído em um ou vários projetos.
