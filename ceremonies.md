@@ -50,7 +50,7 @@ sincronizarmos como time o que cada um individualmente fez, está fazendo e vai 
 Cada um individealmente fala:
 
 - **O que fez**
-- **O que esta fazendo** e
+- **O que está fazendo** e
 - **O que vai fazer em seguida**.
 
 O grande objetivo aqui é sincronizar o trabalho do time todo,
@@ -74,6 +74,6 @@ melhor e mais fácil.
 
 É uma retrospectiva da DevMaker como um todo. Ganhou este apelido carinhoso porque diferente de uma
 Retro "normal", na Super Retro discutimos e decidimos melhorias pra aspectos acima de cada time
-indidualmente e falamos sobre questões relacionadas a DevMaker em geral.
+individualmente e falamos sobre questões relacionadas a DevMaker em geral.
 
-Acontece na última sexta-feira de todo mês e todos participam.
+Acontece na última sexta-feira de cada mês e todos participam.
