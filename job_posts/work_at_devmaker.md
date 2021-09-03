@@ -70,7 +70,7 @@ Isso traz um sentimento de conquista muito bom ☺️
 Por atendermos clientes de áreas diferentes, temos a oportunidade de enfrentar e resolver
 problemas diferentes a cada novo projeto. Veja alguns projetos que fizemos no passado:
 
-- ["IFood" para restaurantes de luxo em Londres](<https://www.devmaker.com.br/portfolio/yolk-london(en)>)
+- ["IFood" para restaurantes de luxo em Londres](https://www.devmaker.com.br/portfolio/yolk-london-en)
 - [Plataforma de EAD corporativa](https://www.devmaker.com.br/portfolio/trilhas-de-aprendizagem)
 - [Sistema memorização para o estudo de
   línguas](https://www.devmaker.com.br/portfolio/fluency_academy_memorization_hack)
