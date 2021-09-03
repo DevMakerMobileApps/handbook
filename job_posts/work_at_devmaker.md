@@ -4,7 +4,7 @@ Acreditamos que a DevMaker é um lugar incrível de se trabalhar, principalmente
 Espero aqui te dar detalhes do porque acreditamos nisso, alguns detalhes de como é trabalhar na
 DevMaker e, se você curtir, te dar vontade de trabalhar conosco ☺️
 
-#### Somos um pequeno time, mas muito eficiente
+## Somos um pequeno time, mas muito eficiente
 
 Já em 1975 Fred Brooks, no livro [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month),
 já explicava que quanto mais pessoas existem em um time, mais linhas de comunicação existem entre elas,
@@ -26,7 +26,7 @@ exige muita criatividade, planejamento, muita colaboração e sincronização en
 Mobile, Front-end, Design, Projetos, etc.). Por isso, para sermos eficientes, investimos não só em
 quantidade de pessoas, mas em melhorar nossa comunicação, nossa forma de trabalho, nossas ferramentas, nossa qualidade de vida e nossa organização em geral.
 
-#### Espaço para ser ouvido e crescer constantemente
+## Espaço para ser ouvido e crescer constantemente
 
 Outra grande vantagem de um time menor é ter espaço para **fazer diferença**.
 Numa grande empresa você é só mais um numa equipe grande, seguindo um monte de políticas e regras, liderado
@@ -47,7 +47,7 @@ Conseguimos constantemente incorporar novas tecnologias, novas regras, novos pro
 Nós criamos em conjunto nossas regras e políticas e, assim, sabemos quando não seguí-las ou
 abandoná-las 😅
 
-#### Você é a DevMaker
+## Você é a DevMaker
 
 Acreditamos que não existe "a DevMaker" sem você e as pessoas que trabalham contigo.
 Não existe nenhuma entidade mística, só existe uma dezena de pessoas fazendo juntos o que gostam: **Construir grandes projetos**.
@@ -65,7 +65,7 @@ acontecendo e ajuda a decidir os próximos passos.
 Compartilhamos e enfrentamos juntos os momentos ruins e celebramos e festejamos juntos os sucessos.
 Isso traz um sentimento de conquista muito bom ☺️
 
-#### Projetos e desafios novos, sempre
+## Projetos e desafios novos, sempre
 
 Por atendermos clientes de áreas diferentes, temos a oportunidade de enfrentar e resolver
 problemas diferentes a cada novo projeto. Veja alguns projetos que fizemos no passado:
@@ -90,7 +90,7 @@ tecnologias, versões de bibliotecas e frameworks.
 Sabemos que é um trabalho gigantesco atualizar a versão do Rails por exemplo num produto antigo.
 Poder começar do zero dá a chance de usar o que tem de mais atual nesse novo projeto, experimentar coisas novas ou deixar de usar o que não ficou legal no projeto anterior.
 
-### Estamos remoto mas estamos próximos
+## Estamos remoto mas estamos próximos
 
 A pandemia do COVID forçou muitas empresas a trabalharem remoto. Felizmente na DevMaker, mesmo
 antes da pandemia, já tínhamos iniciado um plano de trabalho híbrido e assim não precisamos migrar
