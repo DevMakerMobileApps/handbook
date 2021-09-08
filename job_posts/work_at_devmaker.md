@@ -33,7 +33,7 @@ Numa grande empresa você é só mais um numa equipe grande, seguindo um monte d
 por um tech-lead, gerenciado por um gestor, dirigido por um diretor e supervisionado por um
 supervisor.
 Todos preocupados em bater as metas, seguir os KPIs, analisar os indicadores e medir performance.
-Seu contato com os donos da empresa é muito remoto, as vezes você nem conhece quem pode decidir sobre grandes mudanças e assim você não tem espaço para sentar na mesa e discutir a fundo aspectos do **seu trabalho**.
+Seu contato com quem toma as decisões da empresa é muito remoto, as vezes você nem conhece quem pode decidir sobre grandes mudanças e assim você não tem espaço para sentar na mesa e discutir a fundo aspectos do **seu trabalho**.
 
 Aqui podemos falar abertamente sobre os problemas, independente de cargo, posição ou área.
 Podemos discutir o que está nos atrapalhando, sugerir o que achamos que precisa ser mudado e
