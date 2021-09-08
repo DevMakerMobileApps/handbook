@@ -85,7 +85,7 @@ já sabe de cabo a rabo, resolvendo sempre os mesmos problemas dos mesmos client
 A cada novo projeto você tem a possibilidade de encarar e resolver problemas diferentes, usando
 diferentes tecnologias para construir a melhor solução.
 
-Poder iniciar do zero um novo projeto a cada poucos meses nos permite estar sempre atualizado em
+Poder frequentemnte iniciar do zero um novo projeto nos permite estar sempre atualizado em
 tecnologias, versões de bibliotecas e frameworks.
 Sabemos que é um trabalho gigantesco atualizar a versão do Rails por exemplo num produto antigo.
 Poder começar do zero dá a chance de usar o que tem de mais atual nesse novo projeto, experimentar coisas novas ou deixar de usar o que não ficou legal no projeto anterior.
