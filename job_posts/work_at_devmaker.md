@@ -108,6 +108,7 @@ Sabemos que uma mudança de emprego é uma grande decisão!
 Entendemos que, independente da sua experiência, existe uma adaptação natural ao novo lugar.
 Então, [não esperamos que já chegue a todo vapor](https://m.signalvnoise.com/nobody-hits-the-ground-running/).
 Você será recebido(a) com calma pelo time, te mostraremos como tudo funciona e terá um colega seu bem próximo no dia-a-dia para te auxiliar no que precisar.
+Acreditamos que o resultado como equipe é o mais importante, por isto todos estão sempre prontos a colaborar e entender as suas eventuais dificuldades.   
 
 Espero que tenha conseguido mostrar um pouco sobre como é trabalhar conosco.
 Estamos ansiosos para trabalharmos juntos e qualquer dúvida pode nos chamar ok?
