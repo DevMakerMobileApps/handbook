@@ -25,7 +25,6 @@ cliente deseja.
 - Sivonei Neneve - PO
 - Carol Machado - Design
 - Laura Escobar - Design
-- Luana Oliveira - QA
 - Emanoelle Stival - QA
 - Rudiney Franceschi
 - Gilson Ferraz
