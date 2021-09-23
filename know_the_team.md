@@ -59,7 +59,6 @@ acordo com o design especificado.
 ## Desenvolvimento
 - Cleverson Correia - iOS/React
 - Francisco Tavares - Android/React
-- Victor Pereira - Android/React
 - Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
 - Rudiney Franceschi - Rails/React
