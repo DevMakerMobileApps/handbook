@@ -1,7 +1,8 @@
 # Regras do Jogo
 
-Erramos muito ao longo do tempo e fomos percebendo algumas formas de trabalhar, algumas regras que precisam ser seguidas pra evitar problemas maiores. 
-Sempre que quebramos alguma delas, sofremos as duras consequencias novamente. 
+Erramos muito ao longo do tempo e, com isso fomos percebendo algumas formas de trabalhar, algumas regras que precisam ser seguidas pra evitar problemas maiores. 
+As vezes esquecemos de algumas delas e deixamos passar. Ai sofremos as consequências e lembramos do
+porque é uma regra. 😅
 
 
 1. [Time Boxing](time-boxing)
@@ -23,6 +24,7 @@ Nosso Time Box é de 1 semana. Na segunda planejamos a semana e na sexta revisam
 Coisas urgentes que não podem esperar a próxima semana são raras e são FastLanes :rotating_light:
 
 Mesmos reports de clientes e email de suporte dificilmente serão resolvidos dentro da semana corrente.
+
 
 ## O escopo tem que estar definido completamente
 Não é feito nada sem estar claramente definido o que deve ser feito.
@@ -50,7 +52,7 @@ Para se iniciar o desenvolvimento do projeto, já deve existir as contas de serv
 - Facebook / LinkedIn / Twitter
 
 ## Projeto mínimo de 2 semanas
-Parece que indepentende de um projeto novo ser minúsculo, 2 semanas é o menor tempo que já levamos pra fazer um projeto novo. Mesmo projetos super pequenos ou médios, parece ser esse tempo mínimo independente do tamanho do projeto.
+Percebemos que indepentende de um projeto novo ser minúsculo, 3 semanas é o menor tempo que já levamos pra fazer um projeto novo. Mesmo projetos super pequenos ou médios, parece ser esse tempo mínimo independente do tamanho do projeto.
 
 ## Uma vez começado o projeto, vamos até o fim
 Interromper um projeto no meio é custoso. Voltar pra ele depois consome muito trabalho e tempo. Então quando começamos um projetos não paramos mais. 
@@ -64,3 +66,14 @@ Quando o cliente usa pela primeira vez o aplicativo, infelizmente, é normal ele
 
 ## Fechar a v1 antes de começar a v2
 É normal o cliente misturar tudo e reportar coisas para serem corrigidas e novas funções a serem contruídas. Nós separamos isso e só negociamos/especificamos/desenvolvemos a segunda parte quando concordamos que a primeira entrega está finalizada.
+
+## Melhor deixar o time parado do que pular etapas do processo
+...
+
+## Um bug não reproduzido não existe.
+...
+
+## Não existe um projeto com design pronto
+...
+
+
