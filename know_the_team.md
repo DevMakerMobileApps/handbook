@@ -62,6 +62,7 @@ acordo com o design especificado.
 - Hubert Ryan - React Native
 - Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
+- Lucio Charallo - Rails/React
 - Rudiney Franceschi - Rails/React/Native
 
 O desenvolvimento é quem realmente codifica e programa o aplicativo. Seguindo o que foi especificado
