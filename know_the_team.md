@@ -23,6 +23,7 @@ cliente deseja.
 
 - Célia Nakamura - PO
 - Sivonei Neneve - PO
+- Wagner Oliveira - PO
 - Carol Machado - Design
 - Laura Escobar - Design
 - Emanoelle Stival - QA
@@ -56,11 +57,12 @@ mas, também, que está seguindo as lógicas e regras definidas, que o aplicativ
 acordo com o design especificado.
 
 ## Desenvolvimento
-- Cleverson Correia - iOS/React
-- Francisco Tavares - Android/React
+- Cleverson Correia - iOS/React Native
+- Francisco Tavares - Android/React Native
+- Hubert Ryan - React Native
 - Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
-- Rudiney Franceschi - Rails/React
+- Rudiney Franceschi - Rails/React/Native
 
 O desenvolvimento é quem realmente codifica e programa o aplicativo. Seguindo o que foi especificado
 e desenhado, esta equipe é responsável por construir a solução técica do que o time de projetos

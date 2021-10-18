@@ -17,9 +17,8 @@ O mais longo dos plannings! o objetivo desta reunião é que a equipe de desenvo
 entender em detalhes o que precisa ser construído em um ou vários projetos.
 
 Dividimos cada coisa que precisa ser codificada em **_Stories_** e, é responsabilidade da equipe de projetos
-conseguir explicar cada Story com detalhes o suficiente para ser programada. Assim, POs são
-responsáveis por explicar as regras gerais de negócio, designers por explicar a UI e QAs por conferir se
-cada Story foi construída conforme o combinado.
+conseguir explicar cada Story com detalhes o suficiente para ser programada e testadas.
+Assim, POs são responsáveis por explicar as regras gerais de negócio, designers por explicar a UI e QAs por conferir se cada Story foi construída conforme o combinado.
 
 É responsabilidade do time de desenvolvimento dar toda a solução técnica necessária para satisfazer
 as histórias então, durante o planning desenvolvedores precisam entender bem o suficiente para
@@ -69,6 +68,15 @@ Assim, periódicamente cada time tem a oportunidade de discutir qualquer aspecto
 trabalho e tem a liberdade de decidir o que fazer diferente. Podemos falar abertamente sobre
 problemas e levamos na boa toda crítica. Este é um momento para deixarmos nosso trabalho cada vez
 melhor e mais fácil.
+
+Além desses pontos mais normais de toda Retro, ao longo do tempo fomos criando outros casos:
+
+- ⭐️ Estrelinha é dada para quem faz algo excepcional, que merece uma estrela. Ela deve ser sempre
+  dada de forma espontânea por algum ação direta que a pessoa fez: por ex: "Eu acredito que Fulano
+  merece uma estrela por ter conseguido resolver o problema X muito tranquilamente"
+- 💩 Cocozinho é dado para coisas MUITO ruins!
+- 🤡 Palhacinho é concedido honrosamente para quem faz a pior piada na semana (normalmente o
+  Cleverson) hahahaha
 
 ## Super-Retro
 
