@@ -27,6 +27,7 @@ cliente deseja.
 - Carol Machado - Design
 - Laura Escobar - Design
 - Emanoelle Stival - QA
+- Maycon Mazai - Suporte Técnico
 - Rudiney Franceschi
 - Gilson Ferraz
 
@@ -60,6 +61,7 @@ acordo com o design especificado.
 - Cleverson Correia - iOS/React Native
 - Francisco Tavares - Android/React Native
 - Hubert Ryan - React Native
+- Augusto Chmieleski - React Native
 - Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
 - Lucio Charallo - Rails/React
