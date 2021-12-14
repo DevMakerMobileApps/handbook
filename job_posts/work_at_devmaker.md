@@ -114,3 +114,5 @@ Espero que tenha conseguido mostrar um pouco sobre como é trabalhar conosco.
 Estamos ansiosos para trabalharmos juntos e qualquer dúvida pode nos chamar ok?
 
 
+Rudi Franceschi - Partner & CTO
+(muito bom o texto, acho que deveria ser classificado como um "manifesto", e publicado no site e outras mídias. Que acha?
