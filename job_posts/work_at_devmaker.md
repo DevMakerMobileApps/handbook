@@ -113,5 +113,3 @@ Acreditamos que o resultado como equipe é o mais importante, por isto todos est
 Espero que tenha conseguido mostrar um pouco sobre como é trabalhar conosco.
 Estamos ansiosos para trabalharmos juntos e qualquer dúvida pode nos chamar ok?
 
-
-Rudi Franceschi - Partner & CTO
