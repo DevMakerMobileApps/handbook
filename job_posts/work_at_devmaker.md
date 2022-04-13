@@ -1,8 +1,7 @@
 # Trabalhando na DevMaker
 
 Acreditamos que a DevMaker é um lugar incrível de se trabalhar, principalmente se comparar com as gigantes de softwares, as grandes consultorias ou as startups da modinha.
-Espero aqui te dar detalhes do porque acreditamos nisso, alguns detalhes de como é trabalhar na
-DevMaker e, se você curtir, te dar vontade de trabalhar conosco ☺️
+Espero aqui te dar detalhes do porque acreditamos nisso, alguns detalhes de como é trabalhar na DevMaker e, se você curtir, te dar vontade de trabalhar conosco ☺️
 
 ## Somos um pequeno time, mas muito eficiente
 
@@ -72,8 +71,8 @@ problemas diferentes a cada novo projeto. Veja alguns projetos que fizemos no pa
 
 - ["IFood" para restaurantes de luxo em Londres](https://www.devmaker.com.br/portfolio/yolk-london-en)
 - [Plataforma de EAD corporativa](https://www.devmaker.com.br/portfolio/trilhas-de-aprendizagem)
-- [Sistema memorização para o estudo de
-  línguas](https://www.devmaker.com.br/portfolio/fluency_academy_memorization_hack)
+- [Mobile Banking: Indicadores financeiros e pagamentos](https://www.devmaker.com.br/portfolio/roit-bank)
+- [Sistema memorização para o estudo de línguas](https://www.devmaker.com.br/portfolio/fluency_academy_memorization_hack)
 - [Hub de informações sobre o mundo financeiro](https://www.devmaker.com.br/portfolio/hub_do_investidor)
 - [Mobilidade urbana (Uber)](https://www.devmaker.com.br/portfolio/cartax)
 - ["AirBnB" para espaços de escritórios](https://www.devmaker.com.br/portfolio/air-office)
