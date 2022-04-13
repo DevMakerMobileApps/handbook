@@ -25,7 +25,9 @@ Você precisará manter as expectativas tanto do cliente quanto do time interno 
 
 Esta é uma vaga para Trabalho Remoto.
 A DevMaker possui um contrato de “escritório virtual” na [Regus Business Centre](https://www.regus.com/pt-br/brazil/listings) onde podemos reservar espaços sob-demanda em várias cidades.
-Esperamos te receber presencialmente e esporadicamente podemos marcar encontros pessoais mas, assim como muitos negócios neste ano, estamos trabalhando em HomeOffice.
+Esperamos te receber presencialmente e esporadicamente podemos marcar encontros pessoais mas, assim como muitos negócios nestes últimos anos, estamos trabalhando em HomeOffice.
+Mesmo sendo 100% remoto, todo o time DevMaker é muito próximo no dia-a-dia.
+Utilizamos o Discord e com ele conseguimos trabalhar "na mesma sala" mesmo cada um na sua casa 😁
 
 **Aqui são alguns exemplos reais do nosso trabalho que pode te ajudar a entender melhor sobre esta posição:**
 
