@@ -1,8 +1,8 @@
-# DRAFT: Devmaker contrata Desenvolvedor(a) Backend - Ruby on Rails
+# Devmaker contrata: Desenvolvedor(a) Backend - Ruby on Rails
 
 #### O time de desenvolvimento da DevMaker contrata um(a) Programador(a) para arquitetar e construir os grandes projetos que nossos clientes esperam.
 
-![cover](../assets/po_job_post_cover.gif)
+![cover](../assets/dev_job_post_cover.png)
 
 ### Sobre a posição:
 
