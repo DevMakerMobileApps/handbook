@@ -72,7 +72,7 @@ Procuramos quem conheça ou deseja aprender ainda mais sobre:
 
 ### Como Aplicar:
 
-Nos escreva para o email: [trabalhe@devmaker.com.br](mailto:trabalhe@devamker.com.br) falando que deseja se candidatar para esta vaga.
+Nos escreva para o email: [trabalhe@devmaker.com.br](mailto:trabalhe@devmaker.com.br) falando que deseja se candidatar para esta vaga.
 Se possível nos diga outras formas de entrar em contato contigo e já nos conte como você se imagina nessa posição e como acredita que pode ajudar no futuro da DevMaker.
 Não tem respostas erradas e nem nenhuma pegadinha 😅.
 Conte-nos o que te interessa e o que está procurando para sua carreira.
