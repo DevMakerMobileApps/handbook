@@ -27,7 +27,7 @@ cliente deseja.
 - Carol Machado - Design
 - Laura Escobar - Design
 - Emanoelle Stival - QA
-- Maycon Mazai - Suporte Técnico
+- Maycon Mazai - QA / Suporte Técnico
 - Rudiney Franceschi
 - Gilson Ferraz
 
