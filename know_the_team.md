@@ -61,10 +61,9 @@ acordo com o design especificado.
 - Cleverson Correia - iOS/React Native
 - Francisco Tavares - Android/React Native
 - Hubert Ryan - React Native
-- Augusto Chmieleski - React Native
+- Gabriel Freitas - React Native
 - Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
-- Lucio Charallo - Rails/React
 - Rudiney Franceschi - Rails/React/Native
 
 O desenvolvimento é quem realmente codifica e programa o aplicativo. Seguindo o que foi especificado
