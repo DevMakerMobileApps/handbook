@@ -11,7 +11,7 @@ mais gestão, mais checkpoint, mais sincronização e com isso: **menos entrega*
 [Trazer uma nova pessoa para um projeto atrasado só vai atrasar ainda mais o
 projeto](https://en.wikipedia.org/wiki/Brooks%27s_law) e num time grande você vai perder grande
 parte do seu tempo em reuniões de gestão, plannings, stand-up meetings, one-on-ones, feedbacks,
-avaliações 360, follow-ups, etc. Sobrando assim pouco tempo pra fazer o que gosta e faz melhor: Construir software.
+avaliações 360, follow-ups, quarter-review, KPI results, etc. Sobrando assim pouco tempo pra fazer o que gosta e faz melhor: Construir software.
 
 Ter um time maior não quer dizer necessariamente um time melhor e por inúmeras vezes nós vimos isso na prática.
 Vimos isso acontecer com o nosso próprio time interno, chegamos a ter 3x o número de programadores
