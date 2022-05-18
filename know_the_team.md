@@ -9,7 +9,6 @@ Então dividimos toda a DevMaker nos sequintes times:
 
 ## Comercial
 
-- Camila Araujo
 - Marcia Cristina
 - Rudiney Franceschi
 
@@ -59,6 +58,7 @@ acordo com o design especificado.
 
 ## Desenvolvimento
 - Cleverson Correia - iOS/React Native
+- Thais Mignoli - React Native
 - Francisco Tavares - Android/React Native
 - Hubert Ryan - React Native
 - Gabriel Freitas - React Native
