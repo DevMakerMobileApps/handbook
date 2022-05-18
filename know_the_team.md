@@ -78,6 +78,7 @@ aplicativo agora realmente funcionar.
 - Marcelo Noronha - Dir.
 - Rudiney Franceschi - Dir.
 - Amanda Gracioto - Financeiro
+- Katherine Kellner - Administrativo
 
 Este é o time que se faz tudo o que precisa pra DevMaker existir além de entregar projetos em sí.
 Além das questões estratégicas, também questões financeiras, contábeis, jurídicas, de RH e administração em geral.
