@@ -58,6 +58,7 @@ mas, também, que está seguindo as lógicas e regras definidas, que o aplicativ
 acordo com o design especificado.
 
 ## Desenvolvimento
+- Aaron Mostroski - Rails
 - Cleverson Correia - iOS/React Native
 - Thais Mignoli - React Native
 - Francisco Tavares - Android/React Native
