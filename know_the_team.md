@@ -59,7 +59,7 @@ acordo com o design especificado.
 
 ## Desenvolvimento
 - Felipe Afonso - Rails/React
-- Aaron Mostroski - Rails
+- Aaron Ostroski - Rails
 - Gabriel Freitas - React Native
 - Francisco Tavares - Android/React Native
 - Cleverson Correia - iOS/React Native
