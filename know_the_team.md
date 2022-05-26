@@ -58,13 +58,13 @@ mas, também, que está seguindo as lógicas e regras definidas, que o aplicativ
 acordo com o design especificado.
 
 ## Desenvolvimento
+- Felipe Afonso - Rails/React
 - Aaron Mostroski - Rails
+- Gabriel Freitas - React Native
+- Francisco Tavares - Android/React Native
 - Cleverson Correia - iOS/React Native
 - Thais Mignoli - React Native
-- Francisco Tavares - Android/React Native
 - Hubert Ryan - React Native
-- Gabriel Freitas - React Native
-- Felipe Afonso - Rails/React
 - Leônidas Amorim - Rails/React
 - Rudiney Franceschi - Rails/React/Native
 
