@@ -10,6 +10,7 @@ Então dividimos toda a DevMaker nos sequintes times:
 ## Comercial
 
 - Marcia Cristina
+- Marcelo Noronha
 - Rudiney Franceschi
 
 É aqui onde todos os projetos nascem, o primeiro contato dos nossos clientes conosco é através da
