@@ -1,34 +1,37 @@
-# Devmaker contrata: Desenvolvedor(a) Backend - Ruby on Rails
+# Devmaker contrata: Desenvolvedor(a) Mobile - React Native
 
-#### O time de desenvolvimento da DevMaker contrata um(a) Programador(a) para arquitetar e construir os grandes projetos que nossos clientes esperam.
+#### O time de desenvolvimento da DevMaker contrata um(a) Programador(a) Mobile para trazer os projetos para a mão dos nossos clientes.
 
-![cover](../assets/dev_job_post_cover.png)
+![cover](../assets/mobile_job_post_cover.png)
 
 ### Sobre a posição:
 
-Como um desenvolvedor Backend na DevMaker, você será responsável por construir toda a aplicação Rails necessária para suportar as funcionalidades esperadas em cada projeto.
-Você irá entender em detalhes as funcionalidades e precisará traduzir em tabelas de banco-de-dados, controllers, modelos, regras de negócio, painéis de configuração endpoints de API, enfim.
-Precisará construir o Backend onde realmente o aplicativo acontece!
+Como um desenvolvedor Mobile na DevMaker, você será responsável por construir toda a aplicação Mobile, para iOS e Android, de cada projeto
+Utilizando React Native, você irá construir toda a estrutura básica do app, as interfaces, padrões
+de componentes de UI e navegação entre telas.
 
-Procuramos utilizar tudo que o Rails tem de padrão/recomendação em nossos projetos.
-Então você vai poder usar tudo o que o Rails tem a oferecer, como:
-ActionCable, ActiveStorage, ActionMailer, etc.
+Você irá entender em detalhes as funcionalidades do projeto e, junto com o time de back-end entender
+a API necessária para mostrar todas as informações necessários no aplicativo e executar todas as
+ações esperadas pelo usuário.
+
+Contruímos nossos aplicativos mobile para que toda lógica pesada aconteca no backend.
+O aplicativo mobile foca em uma excelênte UI, uma navegação limpa e animações precisas.
+Então, você irá ajudar a organizar como seria uma melhor API para construir o que precisa ser feito e será responsável por consumir esta API, montar toda a interface, fluxos de tela e validações que forem necessárias.
+Utilizamos Expo, GraphQL com o ApolloClient e Tailwind.
+Encontramos nesta stack uma forma incrívelmente fácil construir projetos complexos com pouco esforço.
 
 Você irá somar na atual equipe de desenvolvimento, que é a equipe fundamental para a DevMaker.
 É onde cada projeto toma vida!
 Seu trabalho reflete diretamente na qualidade do que entregamos aos nossos clientes.
-Será sua função construir um software de qualidade, bem testado, sem bugs e excessões, que resolva cada funcionalidade esperada de forma inteligênte e eficiente.
+Será sua função construir um aplicativo de qualidade, bem testado, sem bugs e crashes, com uma interface polida e muito agradável.
 
-Contruímos nossos aplicativos mobile para que toda lógica pesada aconteca no backend.
-O aplicativo mobile foca em uma excelênte UI, uma navegação limpa e animações precisas.
-Fica a cargo do backend oferecer a API necessária para fazer o projeto acontecer, aplicar as regras, processar os dados, validar processos e armezenar tudo de forma consistente.
-
-Mesmo sendo uma posição de trabalho para construi o Backend, nossos projetos normalmente contam com um painel de configuração.
-Onde usuários administradores acessam para fazer diferentes rotinas, então. você precisará construir interfaces e telas WEB com HTML, CSS, JS e possívelmente React.js para telas mais complexas.
+Temos um time de design que faz a concepção das telas.
+Você não vai precisar criar o design das interfaces do zero, você vai receber um design já montado, com esquemas de cores, tamanhos, posições e todo o estilo básico já montado.
+Será seu trabalho implementar as telas seguindo este design e que fique bem adaptada para os diversos tamanhos de telas tanto de dispositivos iOS quanto Android.
 
 Você irá trabalhar em equipe, normalmente de 4 a 6 pessoas, com outros desenvolvedores mobile e backend no seu time.
 Então é fundamental que saiba se comunicar bem, saiba acompanhar, sincronizar e dividir o trabalho com seus colegas.
-É muito importante que consiga demonstrar para a equipe mobile.
+É muito importante que consiga demonstrar para a equipe back-end como organizar a API de uma certa maneira facilitaria o trabalho no mobile.
 
 **Esta é uma vaga para Trabalho Remoto.**
 
@@ -39,9 +42,10 @@ Utilizamos o [Discord](https://discord.gg) e com ele conseguimos trabalhar "na m
 
 **Aqui são alguns exemplos reais do nosso trabalho que pode te ajudar a entender melhor sobre esta posição:**
 
-- Um novo projeto é iniciado, você e sua equipe recebem uma visão geral sobre o projeto e iniciam um novo projeto em rails;
+- Um novo projeto é iniciado, você e sua equipe recebem uma visão geral sobre o projeto e iniciam um novo projeto em React Native com o Expo;
 - Junto com o time, você quebra e detalha melhor a ordem de como será construído;
-- Você programa o back-end, constrói tudo e libera a versão num servidor no heroku;
+- Você organiza e padroniza os componentes, aplica o estilo visual necessário e configura o tema básico da aplicação;
+- Você codifica as telas, configura a navegação e faz as chamadas de API necessárias;
 - Você comunica com o time de QA que determinada funcionalidade está completa e acompanha os testes pra ter certeza que tudo esta 100%;
 - Em projetos já construídos, pode ser reportads bugs ou problemas e você precisa investigar a causa e corrigir o problema.
 
@@ -55,16 +59,16 @@ Você será recebido e treinado pela equipe atual de desenvolvimento e terá con
 Valorizamos [Gerentes de Si-Mesmo](https://signalvnoise.com/posts/1430-hire-managers-of-one), que seja confiável e tenha a capacidade de organizar não só o seu trabalho mas dos seus colegas.
 A estrutura da DevMaker é enxuta, você não terá chefes cobrando em detalhes tudo o que tem feito nem ninguém irá organizar seu dia-a-dia além de você mesmo.
 
-Buscamos quem possua certa experiência de negócio e projetos.
-É importante que você entenda, mesmo que por alto, dos desafios de se fazer projetos sob demanda e das dificuldades de lançar um produto de software no mercado.
+Buscamos quem possua certa experiência com o desenvolmento mobile.
+É importante que você entenda, mesmo que por alto, dos desafios de cada plataforma, das diferenças, das exigências e da dificuldade de se ter um aplicativo aprovado na Apple e na Google.
 
 Você não precisa ter uma graduação técnica na área, seu interesse e experiência nesses assuntos terão mais valor do que o diploma de um curso.
 Ter uma graduação na área é interessante mas não é um pré-requisito.
 Procuramos quem conheça ou deseja aprender ainda mais sobre:
 
-- Ruby e o Framework Rails
-- TDD ou automação de testes em geral
-- PostgreSQL e banco de dados relacional
+- JavaScript e React Native
+- Expo, GraphQL e Apollo
+- Testes unitários ou E2E
 - Versionamento de códigos com GIT
 - Gestão de Requisitos e Metodologias de Desenvolvimento
 - Práticas Ágeis (Scrum, Kanban, etc)
