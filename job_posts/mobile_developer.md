@@ -82,7 +82,6 @@ Não tem respostas erradas e nem nenhuma pegadinha 😅.
 Conte-nos o que te interessa e o que está procurando para sua carreira.
 Vamos ler com carinho e você terá nossa total atenção.
 
-Espere uma resposta nossa dentro de duas semanas e, se for seguir para a próxima etapa, marcaremos uma conversa online para nos conhecermos e discutir mas detalhes/dúvidas.
 O último passo antes de fecharmos uma proposta será nos conhecermos em pessoa e apresentarmos a todo time que te vai te receber.
 
 Sabemos que mudanças na carreira podem ser uma decisão difícil.
