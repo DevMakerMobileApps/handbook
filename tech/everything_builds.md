@@ -1,19 +1,19 @@
 # Tudo sobre Builds/Versões/Servidores/Releases/etc
 
-Esta escrito aqui a forma que nós da DevMaker organizamos os diferentes aspectos de fazer uma build
+Esta descrito aqui a forma que nós da DevMaker organizamos os diferentes aspectos de fazer uma build
 de um app mobile, gerenciar versões das apps, as faixas de teste Google e Apple, os servidores no
 Heroku e tudo envolvido nesse processo.
 
-Por mais que existam diferentes formas e outros recursos para estes procedimentos, aqui é como nós
-escolhemos chamar cada coisa e organizar cada procedimento para facilitar nossa vida.
+Por mais que existam diferentes formas e outros recursos para estes procedimentos, essa é a maneira que nós
+escolhemos para nomear cada termo e organizar cada procedimento para facilitar nossa vida.
 
 # Conceitos:
 
 ## Servidor no Backend - Staging e Production
-O time de backend da DevMaker constrói uma única aplicação Rails que contempla tanto o painel web, o site (se tive), e também a API utilizada pelos apps mobile.
+O time de backend da DevMaker constrói uma única aplicação Rails que contempla tanto o painel web, o site (se existir), e também a API utilizada pelos apps mobile.
 Criamos 2 servidores completamente isolados no Heroku (2 apps, 2 bancos de dados, 2 tudo)
 
-**O servidor de Staging:** é criado já no inicio do desenvolvimento do projeto e é atualizado assim que uma tarefa no back é completa.
+**O servidor de Staging:** é criado já no inicio do desenvolvimento do projeto e é atualizado assim que uma tarefa no back é completada.
 Mesmo antes da Story ir para ToTest o back atualiza o servidor de staging com o que muda na API para o mobile construir o que precisar.
 
 Assim, em staging só existem dados fictícios, de teste que utilizamos durante a construção do projeto.
