@@ -7,6 +7,8 @@ Para publicar um aplicativo nas lojas é necessário que nosso time tenha o devi
 ### Google
 - Francisco Tavares: `fco.anjos@gmail.com`
 - Rudiney Franceschi: `rudi.atp@gmail.com`
+- Hubert Ryan: `hubertryanofficial@gmail.com`
+- Thais Mignoli: `thaisramalhomignoli@gmail.com`
 - DevMaker Mobile: `infra@devmaker.com.br`
 
 ### Apple:
