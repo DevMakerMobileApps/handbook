@@ -60,7 +60,7 @@ acordo com o design especificado.
 ## Desenvolvimento
 - Felipe Afonso - Rails/React
 - Aaron Ostroski - Rails
-- Derik Favoretti - Rails
+- Dérik Favoretti - Rails
 - Gabriel Freitas - React Native
 - Francisco Tavares - Android/React Native
 - Cleverson Correia - iOS/React Native
