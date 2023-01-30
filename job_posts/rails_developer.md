@@ -46,7 +46,6 @@ Utilizamos o [Discord](https://discord.gg) e com ele conseguimos trabalhar "na m
 - Em projetos já construídos, pode ser reportads bugs ou problemas e você precisa investigar a causa e corrigir o problema.
 
 Isso é um pouquinho da nossa organização e nossa experiência, sua experiência e seu conhecimento próprio serão muito bem-vindos para melhorar ainda mais nossos projetos.
-Dependendo do seu perfil, oferecemos uma remuneração de R$ 5.000 a R$ 15.000 (+ benefícios) para esta posição.
 
 ### Sobre Você:
 Procuramos um(a) profissional maduro(a), responsável e com experiência em Desenvolvimento de Software que em pouco tempo possa entender nosso processo, ajudar nos projetos atuais e, iniciar novos projetos.
