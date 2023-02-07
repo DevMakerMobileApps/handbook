@@ -65,7 +65,6 @@ acordo com o design especificado.
 - Francisco Tavares - Android/React Native
 - Cleverson Correia - iOS/React Native
 - Thais Mignoli - React Native
-- Hubert Ryan - React Native
 - Leônidas Amorim - Rails/React
 - Rudiney Franceschi - Rails/React/Native
 
