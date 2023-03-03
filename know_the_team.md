@@ -9,7 +9,7 @@ Então dividimos toda a DevMaker nos sequintes times:
 
 ## Comercial
 
-- Marcia Cristina
+- Natalia Dill
 - Marcelo Noronha
 - Rudiney Franceschi
 
