@@ -60,7 +60,7 @@ acordo com o design especificado.
 ## Desenvolvimento
 - Felipe Afonso - Rails/React
 - Aaron Ostroski - Rails
-- Dérik Favoretti - Rails
+- Natalia Chaves - Rails
 - Gabriel Freitas - React Native
 - Francisco Tavares - Android/React Native
 - Cleverson Correia - iOS/React Native
@@ -68,7 +68,7 @@ acordo com o design especificado.
 - Leônidas Amorim - Rails/React
 - Rudiney Franceschi - Rails/React/Native
 
-O desenvolvimento é quem realmente codifica e programa o aplicativo. Seguindo o que foi especificado
+O time de desenvolvimento é composto por quem realmente codifica e programa o aplicativo. Seguindo o que foi especificado
 e desenhado, esta equipe é responsável por construir a solução técica do que o time de projetos
 projetou. Seja os aplicativos Mobile ou o Back-end, APIs, Integrações, Gateways de Pagamento,
 Builds p/ lojas Apple e Google, bancos de dados, infra de servidores, esta equipe é quem faz o
